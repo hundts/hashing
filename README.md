@@ -2,6 +2,7 @@
 
 Hausaufgabe 30.09.2020
 
+
 -Implementieren Sie Zuhause das SHA-2 (oder 3) mit Python oder andere Programmiersprache Ihre Wahl.
 Benutzen Sie einen Zufallswert bei der Erzeugung von dem Hash-Wert.
 
